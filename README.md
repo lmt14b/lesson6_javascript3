@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Landon Thaler
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creating a photo gallary that can switch between photos using the left and right arrows that were uploaded in the file. Also having a button that can add more images and add a box to each side.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://lmt14b.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learning to access elements by id, tag name, class, name, or selector
+2. Learning to access element content, CSS properties, and attributes
+3. Learning to add and remove document nodes
